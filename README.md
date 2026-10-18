@@ -1,6 +1,6 @@
-# KnightShift: Online Chess Game with Multiplayer and AI
+# ChessBlack: Online Chess Game with Multiplayer and AI
 
-KnightShift is a full-stack web application that allows users to play chess online against other players in real-time using WebSockets or challenge a computer opponent powered by the Stockfish engine with adjustable difficulty levels.
+ChessBlack is a full-stack web application that allows users to play chess online against other players in real-time using WebSockets or challenge a computer opponent powered by the Stockfish engine with adjustable difficulty levels.
 ## Features
 
 ### Chess Gameplay
